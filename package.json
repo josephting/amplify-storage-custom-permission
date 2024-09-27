@@ -1,0 +1,13 @@
+{
+  "name": "s3tag",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "amplify:S3Trigger98c865fc": "cd amplify/backend/function/S3Trigger98c865fc && tsc -p ./tsconfig.json && cd -"
+  },
+  "author": "",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
